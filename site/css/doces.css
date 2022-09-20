@@ -1,0 +1,34 @@
+    .doces {
+        color: white;
+        justify-content: space-around;
+        display: flex;
+        padding: 40px;
+    }
+    
+    .buttomdcs {
+        background-color: rgb(116, 216, 116);
+        width: 250px;
+        height: 300;
+        padding: 20px;
+        margin-top: 40px;
+        border-radius: 10px;
+    }
+    
+    .doces2 {
+        border: 2px solid rgb(196, 108, 40);
+        border-radius: 25px;
+        background-color: rgb(165, 110, 7);
+        width: 400px;
+        height: 500px;
+        text-align: center;
+    }
+    
+    .imgdoces2 {
+        max-width: 350px;
+        max-height: 450px;
+        margin: 20px;
+        padding: 30px;
+        border: 2px solid white;
+        border-radius: 10px;
+        background-color: white;
+    }

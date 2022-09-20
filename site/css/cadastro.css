@@ -1,0 +1,59 @@
+.obrigatorio {
+    color: red;
+}
+
+.container-form {
+    color: black;
+    background-image: linear-gradient(45deg, white, yellow, black);
+    padding: 80px;
+    border-radius: 15px;
+}
+
+input {
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.h1 {
+    color: white;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.bot {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.daora {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 90%;
+    border-radius: 15px;
+    cursor: pointer;
+    color: black;
+}
+
+input[type="file"] {
+    display: none;
+}
+
+.custom-file-upload {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 15px;
+    cursor: pointer;
+    left: 20px;
+}
+
+.galho {
+    color: aliceblue;
+}

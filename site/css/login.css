@@ -1,0 +1,36 @@
+#fundologin {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url(../images/fundo.png);
+}
+
+.bolo {
+    background-image: linear-gradient(45deg, white, red, black);
+    padding: 80px;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
+legend {
+    color: white;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+input {
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+input[type=submit] {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    width: 100%;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.enzo h3 a {
+    color: aliceblue;
+}

@@ -1,0 +1,80 @@
+.image {
+    display: flex;
+    margin-right: 400px;
+}
+
+.banner {
+    width: 100%;
+    height: 400px;
+    background: url(../images/leand.jpg);
+    background-size: cover;
+    text-align: center;
+}
+
+.ing {
+    border-radius: 15px;
+}
+
+.carousel {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 900%;
+    font-size: 900%;
+}
+
+.Login {
+    color: aliceblue;
+}
+
+.per {
+    background-color: dodgerblue;
+    border: none;
+    padding: 15px;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 400px;
+}
+
+nav.bg {
+    width: 100%;
+    text-align: center;
+    background-color: red;
+    padding: 0.1em 0em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav a {
+    position: relative;
+    display: inline-block;
+    margin: 5px 30px;
+    outline: none;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.3em;
+    transition: 6ms;
+}
+
+nav a:hover,
+nav a:focus {
+    transition: 1ms;
+    outline: none;
+    color: #ece750;
+}
+
+.footer {
+    color: white;
+}
+
+
+/* Efeito Hover Circulo */
+
+.bn {
+    align-items: center;
+    display: flex;
+}
